@@ -49,7 +49,7 @@ Using a real
 
 ## Online Resources
 
-MDN is open source and provides the best reference for JavaScript language features. - See: [JavaScript Guide](JavaScript Guide)
+MDN is open source and provides the best reference for JavaScript language features. - See: [JavaScript Guide]([JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide))
 
 
 ## Online lists
