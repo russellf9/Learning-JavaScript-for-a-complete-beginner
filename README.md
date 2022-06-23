@@ -1,4 +1,4 @@
-# Learning-JavaScript-for-a-complete-beginner
+# Learning JavaScript for a complete beginner
 
 ## Motivation
 
